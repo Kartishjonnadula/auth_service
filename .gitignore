@@ -1,0 +1,13 @@
+venv/
+__pycache__/
+*.pyc
+.env
+
+keys/private.pem
+
+.idea/
+.vscode/
+
+.DS_Store
+
+service/auth/keys/*.pem
